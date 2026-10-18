@@ -3,3 +3,5 @@ __pycache__
 .DS_store
 data/*
 .ipynb_checkpoints
+trains.duckdb
+trains.duckdb.wal
